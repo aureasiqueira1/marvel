@@ -36,6 +36,9 @@ const GlobalStyle = createGlobalStyle`
     cursor: pointer;
   }
 
+  p{
+    margin-bottom: 0px;
+  }
  @font-face {
    font-family: 'Axiforma';
    src: local('Axiforma Bold'), url(../assets/fonts/AxiformaBold.otf) format('OpenType');

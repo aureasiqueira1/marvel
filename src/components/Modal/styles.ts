@@ -36,11 +36,10 @@ export const Paragraph = styled.p`
   font-family: "Axiforma";
   width: 283px;
   line-height: 22px;
-  margin-bottom: 24px;
 `;
 
 export const Movies = styled.div`
-  padding: 16px 0;
+  padding: 0px;
 `;
 
 export const MovieName = styled.div`
@@ -63,5 +62,5 @@ export const Note = styled.h3`
   font-weight: 400;
   font-family: "Axiforma";
   width: 283px;
-  margin-top: 16px;
+  margin-top: 24px;
 `;
